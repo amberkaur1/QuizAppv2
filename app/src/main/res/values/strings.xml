@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp2</string>
+    <string name="welcome">Welcome to Amber\'s Quiz App!</string>
+    <string name="name_hint">Enter your name here</string>
+    <string name="submit_button">Submit Name</string>
+    <string name="score">Score: 0</string>
+    <string name="start_button">Start Game</string>
+    <string name="timer">Time: </string>
+    <string name="q1">1+1 = ?</string>
+    <string name="a1">2</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_answer">The answer is correct!</string>
+    <string name="incorrect_answer">Sorry, that answer is incorrect.</string>
+
+
+</resources>
